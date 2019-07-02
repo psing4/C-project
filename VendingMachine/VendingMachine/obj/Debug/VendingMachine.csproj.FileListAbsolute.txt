@@ -1,0 +1,2 @@
+C:\Users\User\Documents\VendingMachine\VendingMachine\obj\Debug\VendingMachine.csprojAssemblyReference.cache
+C:\Users\User\Documents\VendingMachine\VendingMachine\obj\Debug\VendingMachine.csproj.CoreCompileInputs.cache
