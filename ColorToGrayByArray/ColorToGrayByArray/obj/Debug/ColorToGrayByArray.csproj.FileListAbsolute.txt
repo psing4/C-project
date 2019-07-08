@@ -1,0 +1,10 @@
+B:\ImageProcessing\Project\ColorToGrayByArray\ColorToGrayByArray\bin\Debug\ColorToGrayByArray.exe.config
+B:\ImageProcessing\Project\ColorToGrayByArray\ColorToGrayByArray\bin\Debug\ColorToGrayByArray.exe
+B:\ImageProcessing\Project\ColorToGrayByArray\ColorToGrayByArray\bin\Debug\ColorToGrayByArray.pdb
+B:\ImageProcessing\Project\ColorToGrayByArray\ColorToGrayByArray\obj\Debug\ColorToGrayByArray.csprojAssemblyReference.cache
+B:\ImageProcessing\Project\ColorToGrayByArray\ColorToGrayByArray\obj\Debug\ColorToGrayByArray.Form1.resources
+B:\ImageProcessing\Project\ColorToGrayByArray\ColorToGrayByArray\obj\Debug\ColorToGrayByArray.Properties.Resources.resources
+B:\ImageProcessing\Project\ColorToGrayByArray\ColorToGrayByArray\obj\Debug\ColorToGrayByArray.csproj.GenerateResource.cache
+B:\ImageProcessing\Project\ColorToGrayByArray\ColorToGrayByArray\obj\Debug\ColorToGrayByArray.csproj.CoreCompileInputs.cache
+B:\ImageProcessing\Project\ColorToGrayByArray\ColorToGrayByArray\obj\Debug\ColorToGrayByArray.exe
+B:\ImageProcessing\Project\ColorToGrayByArray\ColorToGrayByArray\obj\Debug\ColorToGrayByArray.pdb
