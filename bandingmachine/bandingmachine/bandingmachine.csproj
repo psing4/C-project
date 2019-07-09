@@ -38,7 +38,9 @@
   <ItemGroup>
     <Compile Include="Changer.cs" />
     <Compile Include="Drink.cs" />
+    <Compile Include="DrinkDAO.cs" />
     <Compile Include="Money.cs" />
+    <Compile Include="Screen.cs" />
     <Compile Include="Selector.cs" />
     <Compile Include="Zapangi.cs" />
   </ItemGroup>
